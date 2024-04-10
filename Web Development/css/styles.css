@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(133, 228, 152);
+    color: black; /*text color*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+h5{
+    text-align: center;
+    font-style: italic;
+}
+a{
+    color: aqua;
+}
+a:visited{
+    color: darkgray;
+}
+img{
+    border: 2px solid rgb(255, 115, 0);
+    padding: 3px;
+    margin: 5px;
+    /*center stuff*/
+    display: block;
+    margin: auto;
+}
+.rizz{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkgoldenrod;
+    text-align: right;
+}
+.rizz:hover{
+    font-family: 'Courier New', Courier, monospace;
+    color: bisque;
+    font-size: 16pt;
+    font-style: oblique;
+    border: dashed lime 5px;
+    background-color: brown;
+}
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration: underline;
+}
+/*positioning styles*/
